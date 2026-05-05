@@ -1,0 +1,6 @@
+/* App Styles - Modern UI */
+/* Most styling is handled by Tailwind and index.css */
+
+#root {
+  min-height: 100vh;
+}
